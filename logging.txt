@@ -1,4 +1,0 @@
-Your conversation history:
-You: whoami
-AI: You are Sumeet. How can I assist you today?
-End of conversation history.
